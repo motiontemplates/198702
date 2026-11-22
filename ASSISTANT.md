@@ -3,7 +3,7 @@
 Collect evidence · Explore options · Check deadlines. Prelaunch portrait talking-head demo. Feedback welcome.
 
 Template & full download: https://motiongit.com/@adunext/industry-law-wage-claim
-Version: 1.0.3
+Version: 1.0.4
 Demo available. Check the official page for current download availability.
 
 ## Technical reference
